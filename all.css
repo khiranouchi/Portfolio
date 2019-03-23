@@ -31,3 +31,10 @@ body > .x-first-container {
     padding-top: 9rem;
     margin-top: -3rem;
 }
+
+.x-subpart {
+    padding-top: 1rem;
+}
+.x-first-subpart {
+	padding-top: 0;
+}
