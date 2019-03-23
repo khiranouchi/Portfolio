@@ -1,6 +1,6 @@
 Portfolio
 ============
-Website: COMING SOON <br>
+Website: https://khiranouchi.github.io/portfolio/ <br>
 Portfolio template and my portfolio.
 (Detail is TODO)
 
